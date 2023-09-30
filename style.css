@@ -1,0 +1,16 @@
+body{
+    background-color: plum;
+    color: white;
+}
+#hed{
+    font-size: 35px;
+}
+.name_of_the_objects{
+    font-size: medium;
+}
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height:300px;   
+    
+}
